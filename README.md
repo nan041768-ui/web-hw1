@@ -2,10 +2,20 @@
 
 ## original_title, release_date 전체, overview, backdrop_path까지 메모
 
+# 스파이더맨: 브랜드 뉴 데이
+- "popularity": 1036.4928,
+- "release_date": "2026-07-29"
+- "backdrop_path": "/r08LxMJCbf1SiJIWeyH9aJmdqwC.jpg"
+
+
+
+
 # 아이언맨
 - 한줄 소개: 하이테슈퍼 히어로의 탄생, 이제 업그레이드는 끝났다!
 - 제목: 아이언맨
+ "original_title": "Iron Man",
 - 연도(release_date 전체): 2008/04/30
+- "popularity": 35.5742
 - 평점: 7.8
 - poster_path: https://media.themoviedb.org/t/p/w600_and_h900_face/ziReGUV3xURsWmcmsn2GOunPc0L.jpg
 - backdrop_path: /cKvDv2LpwVEqbdXWoQl4XgGN6le.jpg
@@ -15,6 +25,8 @@
 # 어벤져스: 엔드게임
 - 제목: 어벤져스: 엔드게임
 - 연도: 2019/04/24
+-       "popularity": 82.9178,
+-         "original_title": "Avengers: Endgame",
 - 평점: 8.2
 - poster_path: https://media.themoviedb.org/t/p/w600_and_h900_face/z7ilT5rNN9kDo8JZmgyhM6ej2xv.jpg
 - 개요
@@ -22,6 +34,8 @@
 
 # 어벤져스: 인피니티 워
 - 제목: 어벤져스: 인피니티 워
+- "original_title": "Avengers: Infinity War"
+- "popularity": 72.8516
 - 연도: 2018/04/26
 - 평점: 8.2
 - poster_path: https://media.themoviedb.org/t/p/w600_and_h900_face/kmP6viwzcEkZeoi1LaVcQemcvZh.jpg
@@ -30,7 +44,9 @@
    
 # 스파이더맨: 홈커밍
 - 제목: 스파이더맨: 홈커밍
+- "popularity": 35.8048
 - 연도: 2017/07/05
+- "original_title": "Spider-Man: Homecoming",
 - 평점: 7.3
 - poster_path: https://media.themoviedb.org/t/p/w600_and_h900_face/hjki9weYYVABvkpZbX5jBOmKXXv.jpg
 - 개요
